@@ -1,0 +1,125 @@
+commit 6db871215ee974cfe753071e3f5d8d9199328ef6
+Author: abyy04 <160357900+abyy04@users.noreply.github.com>
+Date:   Fri Mar 7 14:17:02 2025 -0500
+
+    implemented sine-function
+
+commit 69308770f0e071da95b6db795feac83e7e5706b5
+Author: David Gerard <dgredsox@gmail.com>
+Date:   Wed Oct 9 19:11:38 2024 -0400
+
+    Update README.md
+
+commit 22c1e5a20b9894dd1cf83b5c6c51512ec854e520
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 19:08:47 2024 -0400
+
+    Update README.md
+
+commit 186e183793c9b8e1cc1226ca071a3dc95ae37f48
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 19:05:28 2024 -0400
+
+    Update README.md
+
+commit 0c76e59d6fb71f5a436ad75f50fc083f8248a7d3
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 19:05:17 2024 -0400
+
+    Update README.md
+
+commit 028ae4e87606fb1c2c8a62855c0387a434e8f35d
+Author: Kevin Downing <36209619+v2@users.noreply.github.com>
+Date:   Wed Oct 9 19:00:52 2024 -0400
+
+    Add TODOs
+
+commit 58c59ce4d7aabb45f8fcc544a697358cc20093d3
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 19:01:28 2024 -0400
+
+    Update README.md
+
+commit b81f3dc21cd601fb29cc429a27adcdedbe8f11c7
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:57:04 2024 -0400
+
+    Update calculator.js
+
+commit ace0fc4be351ffd851e68f9dcefc5b62b9e6ffeb
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:52:57 2024 -0400
+
+    Update README.md
+
+commit 35c05e70642c5972f87e28f4c5cb65d08daa47c2
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:52:00 2024 -0400
+
+    Update README.md
+
+commit 88278cfdc384f79395818dc73a84583811734d2a
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:50:21 2024 -0400
+
+    Update README.md
+
+commit 3114e7a72d64c78bd92bcb3290c5cfda8752b9bc
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:49:30 2024 -0400
+
+    Update README.md
+
+commit a0cd6ef54f1d5b1aa2c1eb1acfd013c354e675d8
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:48:47 2024 -0400
+
+    Update README.md
+
+commit 7f3da1c72a110d9e5dfd03e0bc52ecbeaf437684
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:47:15 2024 -0400
+
+    Update README.md
+
+commit 0c9b8f4d10adc8e9caa2df700a3ed4e865ad129d
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:45:30 2024 -0400
+
+    Update README.md
+
+commit dac9f959ebe148a160a3e47bdba984098de71ab1
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:43:27 2024 -0400
+
+    Update README.md
+
+commit 0073ad57dd19ddd36dd069a4dbfaa88f5e0b2d4f
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:42:13 2024 -0400
+
+    Update README.md
+
+commit 7e77ce1a026bb100e1b0de7cced1816879e5179f
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:38:30 2024 -0400
+
+    Update README.md
+
+commit 61cc1fba5191a91313a578513cf3787cefae1338
+Author: Kevin Downing <36209619+v2@users.noreply.github.com>
+Date:   Wed Oct 9 18:35:10 2024 -0400
+
+    import code
+
+commit 4fee32f59859e1e40cad270a00b4f2ff7d8e9aec
+Author: Cyrus <cyrusb252@gmail.com>
+Date:   Wed Oct 9 18:33:12 2024 -0400
+
+    Update README.md
+
+commit 7a8e2a79e08e653e02da969eb9acba8a1650c948
+Author: David Gerard <dgredsox@gmail.com>
+Date:   Wed Oct 9 18:28:49 2024 -0400
+
+    Initial commit
