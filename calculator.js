@@ -27,7 +27,10 @@ function naturalLog(value) {
 }
 
 // TODO: Implement sine function
-function sine(value) {
+    function sine(value) {
+        let input = document.getElementById("display").value; 
+        let result = Math.sin(input * (Math.PI / 180));
+        document.getElementById("display").value = result;    
     // return the sine of the value
 }
 
